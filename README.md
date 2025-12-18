@@ -1,2 +1,4 @@
 # DataStructures
-Implementation pila, Alberi e Ricerca Binari
+La seguente repository conterrà le seguenti implementazioni:
+stack.py
+
